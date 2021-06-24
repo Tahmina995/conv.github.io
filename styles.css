@@ -9,7 +9,7 @@ body{
     font-family: monospace;
 }
 .tahmina{
-    background-image: url(back.jpg);
+    background-image: url(BG.jpg);
     height: 100vh;
     background-size: cover;
 }
@@ -38,7 +38,7 @@ label{
     padding: 5px 5px;
     font-size: 30px;
     font-family: serif;
-    color: aquamarine;
+    color:blueviolet;
 }
 #taka, #dollar, #euro, #pound, #rupee{
     border: none;
